@@ -25,7 +25,7 @@
 			<Reward day="5" type="BombAndLineBoost" count="1"/>
 			<Reward day="6" type="SwapBoosterBonus" count="1"/>
 			<Reward day="7" type="ProtectLives" count="60"/>
-			<Reward day="7" type="MultiplyFishBoost" count="1"/>
+			<Reward day="7" type="LightningBoost" count="1"/>
 >>>>>>> develop
 		</Page>
 		<Page id="Fireworks" photo="DailyBonusPhoto_Fireworks">
